@@ -4,4 +4,4 @@
 .form-note { color: var(--muted); font-size: .87rem; }
 .contact-detail { padding: 1rem 0; border-bottom: 1px solid var(--line); }
 .contact-detail h2 { margin-bottom: .25rem; font-family: "Trebuchet MS", "Segoe UI", sans-serif; font-size: .88rem; font-weight: 700; }
-.contact-detail a { color: var(--blue-deep); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.contact-detail a { color: var(--blue-deep); overflow-wrap: anywhere; text-decoration-thickness: 1px; text-underline-offset: 3px; }

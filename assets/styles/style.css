@@ -81,6 +81,7 @@ h1, h2, h3, .page-title {
 
 @media (max-width: 575.98px) {
 	.content-section { padding: 2.5rem 0 3.5rem; }
+	.content-section .row { --bs-gutter-x: 1.5rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
