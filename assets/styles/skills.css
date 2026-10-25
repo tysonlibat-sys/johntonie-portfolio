@@ -1,0 +1,5 @@
+.skill-row { padding: 1.15rem 0; border-bottom: 1px solid var(--line); }
+.skill-row:first-child { padding-top: 0; }
+.skill-name { margin: 0; font-size: 1.14rem; font-weight: 700; }
+.skill-note { margin: .2rem 0 0; color: var(--muted); font-size: .93rem; }
+.skill-level { display: inline-block; padding: .32rem .68rem; border: 1px solid #b8d5c8; border-radius: 99px; color: var(--blue-deep); background: #edf6f0; font-size: .78rem; font-weight: 700; white-space: nowrap; }

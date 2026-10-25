@@ -1,0 +1,5 @@
+.education-item { padding: 1.2rem 0 1.2rem 1.3rem; border-left: 2px solid #a9cec0; }
+.education-item + .education-item { margin-top: .6rem; }
+.education-item h2 { font-size: 1.35rem; }
+.education-item p { margin-bottom: .2rem; color: var(--muted); }
+.placeholder-value { color: var(--blue-deep); font-weight: 700; }

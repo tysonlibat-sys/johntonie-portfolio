@@ -1,0 +1,7 @@
+.contact-form label { margin-bottom: .4rem; font-size: .92rem; font-weight: 700; }
+.contact-form .form-control { border-color: #cbd8d2; border-radius: 4px; padding: .75rem .85rem; background: #fffefa; }
+.contact-form .form-control:focus { border-color: var(--blue); box-shadow: 0 0 0 .2rem rgba(40, 109, 121, .14); }
+.form-note { color: var(--muted); font-size: .87rem; }
+.contact-detail { padding: 1rem 0; border-bottom: 1px solid var(--line); }
+.contact-detail h2 { margin-bottom: .25rem; font-family: "Trebuchet MS", "Segoe UI", sans-serif; font-size: .88rem; font-weight: 700; }
+.contact-detail a { color: var(--blue-deep); text-decoration-thickness: 1px; text-underline-offset: 3px; }
